@@ -1,0 +1,29 @@
+functionsDirectory = "C:\\Users\\panwa\\OneDrive\\Desktop\\demo"
+functionsDirectoryOrigin = "ui"
+plugins = []
+headers = []
+redirects = []
+
+[functions]
+
+[functions."*"]
+
+[build]
+publish = "C:\\Users\\panwa\\OneDrive\\Desktop\\demo"
+publishOrigin = "default"
+functions = "C:\\Users\\panwa\\OneDrive\\Desktop\\demo"
+commandOrigin = "heuristics"
+
+[build.environment]
+
+[build.processing]
+
+[build.processing.css]
+
+[build.processing.html]
+
+[build.processing.images]
+
+[build.processing.js]
+
+[build.services]
